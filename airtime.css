@@ -1,0 +1,21 @@
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  background-color: darkblue;
+}
+.first {
+    padding-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: cornsilk;
+}
+
+.mtn {
+ margin-left: 40px;
+ width: 30%;
+
+}
+.try {
+   scroll-padding-top: 50px;
+}

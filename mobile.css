@@ -1,0 +1,35 @@
+.mine {
+    background-color: rgb(116, 151, 165);
+}
+.set {
+    font-family: 'Times New Roman', Times, serif, bold;
+    padding-top: 30px;
+    text-align: center;
+}
+.mtnn {
+
+    justify-content: center;
+    margin-left: 70px;
+    border-radius: 50px;
+}
+.one {
+    justify-content: center;
+}
+.buttone {
+    padding-top: 100px;
+    margin-left: 90px;
+  
+}
+.btn1 {
+    
+    padding: 20px;
+    border-radius: 10px;
+    border-color: chartreuse;
+}
+ 
+.btn2 {
+    padding: 20px;
+    border-radius: 10px;
+    border-color: blue;
+}
+ 
